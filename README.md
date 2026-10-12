@@ -1,86 +1,97 @@
 <div align="center">
 
-# Hi there, I'm Avith Rwegoshora Apolinary 👋
-### Full-Stack Software Developer & Entrepreneur
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30,45,60&height=200&section=header&text=AVITH%20RWEGOSHORA%20APOLINARY&fontSize=34&fontColor=fff&animation=fadeIn&fontY=38" width="100%" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/apox-rider)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/apox-rider)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@apox-rider)
-[![X](https://img.shields.io/badge/X-black.svg?style=flat&logo=X&logoColor=white)](https://x.com/apox-rider)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apolinaryavith@gmail.com)
+  ### ⚡ FULL-STACK SOFTWARE ARCHITECT & FOUNDER ⚡
+  <p align="center">
+    <img src="https://img.shields.io/badge/CEO-TrustFlow_Tech-ff0055?style=for-the-badge&logo=rocket&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Building_Scalable_Systems-7928ca?style=for-the-badge&logo=code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Location-Tanzania-00dfd8?style=for-the-badge&logo=googlemaps&logoColor=white" />
+    <img src="https://img.shields.io/badge/Institution-MUST-blue?style=for-the-badge&logo=graduation-dot-com&logoColor=white" />
+  </p>
 
+  <p>
+    <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.tiktok.com/@trustfloworg"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" /></a>
+    <a href="https://twitter.com"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+    <a href="mailto:apolinaryavith@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  </p>
+
+</div>
+
+## ⟨ 01 ⟩ SYSTEM MANIFESTO
+
+```bash
+$ avith --initialize-profile
+[ OK ] Loading core developer metadata...
+[ OK ] Establishing TrustFlow Organization...
+[ OK ] Mounting Mbeya University of Science and Technology academic modules...
+[ OK ] Status: Fully operational and ready for deployment.
+```
+
+I am Avith Rwegoshora Apolinary, a full-stack developer, software engineering student, and entrepreneur based in Tanzania. I specialize in designing and engineering high-performance distributed architectures, secure transaction infrastructure, mobile client systems, and immersive web applications. As the CEO and founder of TrustFlow Organization, I lead technical execution across complex engineering platforms like SokoPlus , translating business models into bulletproof codebases for practical life solutions of the community .
+
+## ⟨ 02 ⟩ MY ARCHITECTURE
+
+> *"In enterprise software and financial engineering, resilience isn't a secondary feature—it is the baseline requirement. Every API route, state transition, and database migration must be executed with absolute precision."*
+
+*   **System Integrity & Validation:** Ensuring that user authentication flows, session handling, and transaction checkpoints are protected against edge cases, race conditions, and data loss.
+*   **Modular Component Design:** Building scalable frontends using modern component-driven methodologies, clean state management, and optimized asset pipelines.
+*   **Cross-Platform Consistency:** Delivering seamless, high-performance user experiences across web (`Next.js`, `React`) and mobile (`React Native` with `Expo`) platforms.
+
+## ⟨ 03 ⟩ MY TECHSTACK
+
+<div align="center">
+
+| Operational Tier | Technologies, Frameworks & Tooling |
+| :--- | :--- |
+| **Frontend & Mobile** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend Services** | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Datastores & State** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white) |
+| **Environment & Design** | ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) |
 </div>
 
 ---
 
-### 💫 About Me
-* 🔭 **Current Focus:** Building **Cosmic** and scaling **TrustFlow Tech**.
-* 👯 **Collaborations:** Open to collaborating on innovative software and fintech projects.
-* 🌱 **Learning:** Deepening skills in Java, Spring Boot, TensorFlow, and advanced backend architectures.
-* 💬 **Ask Me About:** Web and mobile application development, full-stack design, and UI/UX branding.
-* 📫 **Reach Me:** [apolinaryavith@gmail.com](mailto:apolinaryavith@gmail.com)
+## ⟨ 04 ⟩ FEATURED PROJECTS 
+
+Here is an overview of production-grade systems and architecture platforms I have engineered and maintained:
+
+| System / Repository | Core Stack | Operational Scope |
+| :--- | :--- | :--- |
+| **[SokoPlus ](https://www.sokopluss.co.tz/)** | React.js, React Native, Node.js | Comprehensive multi-platform commerce network tailored for markets and services offered by businesses currently across Tanzania. |
+| **[SportNews](https://sportnews-one.vercel.app/)** | TypeScript, Custom UI Grid | A site where sports data history and real time data is showcased for football , wrestling and formula 1 lineup . |
+| **[Smart Vicoba](https://github.com/apox-rider)** | Next.js, Tailwind CSS | A digital village level community bank for saving and records of contributions and financial village level transaction keeper for the tracking of incomes . |
 
 ---
 
-### 💻 Tech Stack
+## ⟨ 05 ⟩ OPERATIONAL METRICS
 
-**Frontend & Mobile:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend & Databases:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-**Tools & Design:**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
+```text
+ ├── Active Production Sprints   : SokoPlus, SportNews, Smart Vicoba, TrustFlow Engine
+ ├── Core System Focus           : Digital Cormerce,Scalable SaaS, Community Banking, Real-Time Data Grids
+ └── Primary Environment         : macOS ── VS Code ── TypeScript & Node.js Architecture
+```
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=apox-rider&theme=dark&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=apox-rider&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=apox-rider&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=apox-rider&show_icons=true&theme=vision-code-dark&hide_border=true&bg_color=0d0d0d&title_color=ff0055&icon_color=00dfd8&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apox-rider&layout=compact&theme=vision-code-dark&hide_border=true&bg_color=0d0d0d&title_color=ff0055&text_color=c9d1d9" width="48%" />
 </div>
 
-### 🏆 GitHub Trophies
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=apox-rider&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apox-rider&theme=vision-code-dark&hide_border=true&background=0d0d0d&ring=ff0055&fire=00dfd8&currStreakNum=ffffff" width="100%" />
 </div>
 
 ---
 
-### ✍️ Random Dev Quote
+## ⟨ 06 ⟩ ── CONNECT & COLLABORATE
+
+If you want to connect, discuss system architectures, or explore collaborations around TrustFlow Tech and open-source tooling, reach out below:
+
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <img src="https://img.shields.io/badge/Status-Ready_For_Deployment-ff0055?style=for-the-badge&logo=rocket&logoColor=white" />
 </div>
 
----
-
 <div align="center">
-
-### 💰 Support My Work
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/apox-rider)
-
-[![](https://visitcount.itsvg.in/api?id=apox-rider&icon=0&color=0)](https://visitcount.itsvg.in)
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&customColorList=15,15,15&height=60&section=footer&stroke=ff0055&strokeWidth=1" width="100%" />
 </div>

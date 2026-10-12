@@ -92,6 +92,15 @@ If you want to connect, discuss system architectures, or explore collaborations 
   <img src="https://img.shields.io/badge/Status-Ready_For_Deployment-ff0055?style=for-the-badge&logo=rocket&logoColor=white" />
 </div>
 
+
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&customColorList=15,15,15&height=60&section=footer&stroke=ff0055&strokeWidth=1" width="100%" />
+  <br>
+  <p><em>"Translating business models into bulletproof codebases."</em></p>
+  <p><b>Avith Rwegoshora Apolinary</b> • CEO & Founder, TrustFlow Company</p>
+  <p>
+    <a href="mailto:apolinaryavith@gmail.com"><code>avith@trustfloworg.com</code></a> • 
+    <span>Mbeya, Tanzania</span>
+  </p>
+  <br>
 </div>

@@ -84,7 +84,7 @@ Here is an overview of production-grade systems and architecture platforms I hav
 
 ---
 
-## ⟨ 06 ⟩ ── CONNECT & COLLABORATE
+## ⟨ 06 ⟩ CONNECT & COLLABORATE
 
 If you want to connect, discuss system architectures, or explore collaborations around TrustFlow Tech and open-source tooling, reach out below:
 
